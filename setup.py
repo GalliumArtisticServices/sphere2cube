@@ -1,9 +1,9 @@
 #!/usr/bin/env python
 
 __author__ = 'Xyene'
-import ez_setup
+#import ez_setup
 
-ez_setup.use_setuptools()
+#ez_setup.use_setuptools()
 from setuptools import setup, find_packages
 import os
 
